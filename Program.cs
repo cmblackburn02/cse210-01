@@ -1,4 +1,7 @@
-﻿using System;
+﻿//Tic-Tac-Toe
+//by Cecilee Blackburn
+
+using System;
 
 
 namespace cse210_01
